@@ -109,14 +109,12 @@ During operation:
 
 ---
 
-# Simulation
-
-Place a screenshot of the running simulation here.
-Insert the simulation screenshot here.
-
----
 
 # Simulation Video
+
+
+
+https://github.com/user-attachments/assets/55226c8a-4685-42b4-ac5f-7c3eed645e6c
 
 
 
