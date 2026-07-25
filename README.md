@@ -105,8 +105,7 @@ During operation:
 
 # Circuit Image
 
-Place the complete circuit image here.
-Insert the circuit image here.
+<img width="1536" height="687" alt="Copy of DC motor" src="https://github.com/user-attachments/assets/efa44ba5-9c2a-4e1c-bf5f-67893db3c064" />
 
 ---
 
@@ -119,8 +118,7 @@ Insert the simulation screenshot here.
 
 # Simulation Video
 
-Place the simulation video here.
-<video src="simulation.mp4" controls width="700"></video>
+
 
 ---
 
