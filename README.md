@@ -52,8 +52,8 @@ The sensor includes four pins:
 
 ## HC-SR04 Pinout
 
-Place the HC-SR04 pinout image here.
-Insert the HC-SR04 pinout image here.
+<img width="709" height="568" alt="photo_2026-07-25_05-25-12" src="https://github.com/user-attachments/assets/68ada020-2cdb-4d40-99bf-b1a0e531d44c" />
+
 
 ---
 
